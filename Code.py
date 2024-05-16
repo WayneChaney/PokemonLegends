@@ -10,7 +10,7 @@ __status__ = "Building"
 
 
 import csv
-# import mysql.connector
+import mysql.connector
 
 
 
@@ -27,31 +27,37 @@ with open('pokemon.csv', mode ='r')as file:
 
 
 
-# dataBase = mysql.connector.connect(
-#   host ="localhost",
-#   user ="user",
-#   passwd ="password",
-#   database = "Pokemon"
-# )
+dataBase = mysql.connector.connect(
+  host = "localhost",
+    user = "local_user",
+    password = "password",
+    database = "dataBase"
+
+)
+
  
-# # preparing a cursor object
-# cursorObject = dataBase.cursor()
+# preparing a cursor object
+cursorObject = dataBase.cursor()
+cursorObject.execute("SHOW DATABASES")
+cursorObject.execute('CREATE DATABASE IF NOT EXISTS dataBase;' )
+# cursor.execute('CREATE TABLE legends (name VARCHAR(255), type VARCHAR(255), generation INTEGER(10), legendaryData VARCHAR(255))' )
+
   
-# sql = "INSERT INTO STUDENT (Name, Type, Generation, Legendary, PokédexNum)\
-# VALUES (%s, %s, %s, %s, %s)"
-# val = [("Nikhil", "CSE", "98", "A", "0"),
-#        ("Nisha", "CSE", "99", "A", "0"),
-#        ("Rohan", "MAE", "43", "B", "0"),
-#        ("Amit", "ECE", "24", "A", "0"),
-#        ("Anil", "MAE", "45", "B", "0"), 
-#        ("Megha", "ECE", "55", "A", "0"), 
-#        ("Sita", "CSE", "95", "A", "0")]
+sql = "INSERT INTO Legends (Name, Type, Generation, Legendary, PokédexNum)\
+VALUES (%s, %s, %d, %s, %d)"
+val = [("Nikhil", "CSE", "98", "A", "0"),
+       ("Nisha", "CSE", "99", "A", "0"),
+       ("Rohan", "MAE", "43", "B", "0"),
+       ("Amit", "ECE", "24", "A", "0"),
+       ("Anil", "MAE", "45", "B", "0"), 
+       ("Megha", "ECE", "55", "A", "0"), 
+       ("Sita", "CSE", "95", "A", "0")]
    
-# cursorObject.executemany(sql, val)
-# dataBase.commit()
+cursorObject.executemany(sql, val)
+dataBase.commit()
    
-# # disconnecting from server
-# dataBase.close()
+# disconnecting from server
+dataBase.close()
 
 
 
