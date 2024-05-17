@@ -11,6 +11,7 @@ __status__ = "Building"
 
 import csv
 import mysql.connector
+import json
 
 
 
@@ -61,7 +62,7 @@ dataBase.close()
 
 
 
-cursor = conn.cursor()
+cursor = dataBase.cursor()
 sql_query = "SELECT * FROM your_table;"
 cursor.execute(sql_query)
 
