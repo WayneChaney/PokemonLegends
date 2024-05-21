@@ -1,0 +1,457 @@
+[
+    {
+        "Name": "Articuno",
+        "Type": "Ice",
+        "Type2": "Flying",
+        "Gen": 1,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Zapdos",
+        "Type": "Electric",
+        "Type2": "Flying",
+        "Gen": 1,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Moltres",
+        "Type": "Fire",
+        "Type2": "Flying",
+        "Gen": 1,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Mewtwo",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 1,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "MewtwoMega Mewtwo X",
+        "Type": "Psychic",
+        "Type2": "Fighting",
+        "Gen": 1,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "MewtwoMega Mewtwo Y",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 1,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Raikou",
+        "Type": "Electric",
+        "Type2": "",
+        "Gen": 2,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Entei",
+        "Type": "Fire",
+        "Type2": "",
+        "Gen": 2,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Suicune",
+        "Type": "Water",
+        "Type2": "",
+        "Gen": 2,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Lugia",
+        "Type": "Psychic",
+        "Type2": "Flying",
+        "Gen": 2,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Ho-oh",
+        "Type": "Fire",
+        "Type2": "Flying",
+        "Gen": 2,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Regirock",
+        "Type": "Rock",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Regice",
+        "Type": "Ice",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Registeel",
+        "Type": "Steel",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Latias",
+        "Type": "Dragon",
+        "Type2": "Psychic",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "LatiasMega Latias",
+        "Type": "Dragon",
+        "Type2": "Psychic",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Latios",
+        "Type": "Dragon",
+        "Type2": "Psychic",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "LatiosMega Latios",
+        "Type": "Dragon",
+        "Type2": "Psychic",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Kyogre",
+        "Type": "Water",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "KyogrePrimal Kyogre",
+        "Type": "Water",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Groudon",
+        "Type": "Ground",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "GroudonPrimal Groudon",
+        "Type": "Ground",
+        "Type2": "Fire",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Rayquaza",
+        "Type": "Dragon",
+        "Type2": "Flying",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "RayquazaMega Rayquaza",
+        "Type": "Dragon",
+        "Type2": "Flying",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Jirachi",
+        "Type": "Steel",
+        "Type2": "Psychic",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "DeoxysNormal Forme",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "DeoxysAttack Forme",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "DeoxysDefense Forme",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "DeoxysSpeed Forme",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 3,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Uxie",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Mesprit",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Azelf",
+        "Type": "Psychic",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Dialga",
+        "Type": "Steel",
+        "Type2": "Dragon",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Palkia",
+        "Type": "Water",
+        "Type2": "Dragon",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Heatran",
+        "Type": "Fire",
+        "Type2": "Steel",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Regigigas",
+        "Type": "Normal",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "GiratinaAltered Forme",
+        "Type": "Ghost",
+        "Type2": "Dragon",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "GiratinaOrigin Forme",
+        "Type": "Ghost",
+        "Type2": "Dragon",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Darkrai",
+        "Type": "Dark",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "ShayminLand Forme",
+        "Type": "Grass",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "ShayminSky Forme",
+        "Type": "Grass",
+        "Type2": "Flying",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Arceus",
+        "Type": "Normal",
+        "Type2": "",
+        "Gen": 4,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Victini",
+        "Type": "Psychic",
+        "Type2": "Fire",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Cobalion",
+        "Type": "Steel",
+        "Type2": "Fighting",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Terrakion",
+        "Type": "Rock",
+        "Type2": "Fighting",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Virizion",
+        "Type": "Grass",
+        "Type2": "Fighting",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "TornadusIncarnate Forme",
+        "Type": "Flying",
+        "Type2": "",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "TornadusTherian Forme",
+        "Type": "Flying",
+        "Type2": "",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "ThundurusIncarnate Forme",
+        "Type": "Electric",
+        "Type2": "Flying",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "ThundurusTherian Forme",
+        "Type": "Electric",
+        "Type2": "Flying",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Reshiram",
+        "Type": "Dragon",
+        "Type2": "Fire",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Zekrom",
+        "Type": "Dragon",
+        "Type2": "Electric",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "LandorusIncarnate Forme",
+        "Type": "Ground",
+        "Type2": "Flying",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "LandorusTherian Forme",
+        "Type": "Ground",
+        "Type2": "Flying",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Kyurem",
+        "Type": "Dragon",
+        "Type2": "Ice",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "KyuremBlack Kyurem",
+        "Type": "Dragon",
+        "Type2": "Ice",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "KyuremWhite Kyurem",
+        "Type": "Dragon",
+        "Type2": "Ice",
+        "Gen": 5,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Xerneas",
+        "Type": "Fairy",
+        "Type2": "",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Yveltal",
+        "Type": "Dark",
+        "Type2": "Flying",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Zygarde50% Forme",
+        "Type": "Dragon",
+        "Type2": "Ground",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Diancie",
+        "Type": "Rock",
+        "Type2": "Fairy",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "DiancieMega Diancie",
+        "Type": "Rock",
+        "Type2": "Fairy",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "HoopaHoopa Confined",
+        "Type": "Psychic",
+        "Type2": "Ghost",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "HoopaHoopa Unbound",
+        "Type": "Psychic",
+        "Type2": "Dark",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    },
+    {
+        "Name": "Volcanion",
+        "Type": "Fire",
+        "Type2": "Water",
+        "Gen": 6,
+        "Status": "Ledgendary"
+    }
+]
